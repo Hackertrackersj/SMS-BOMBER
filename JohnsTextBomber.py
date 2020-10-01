@@ -6,7 +6,7 @@ import smtplib
 email_provider = 'smtp.gmail.com' #server for your email- see ReadMe on github
 email_address = "YourEmail@gmail.com" #your email
 email_port = 587 #port for email server- see ReadMe on github
-password = "password123" #your email password
+password = "password12" #your email password
 msg = "Your message that you want sent to target" #your txt message
 text_amount = 20 #amount sent
 target_email = "5551234567@mms.att.net" #target number. must be in email form- see ReadMe on github
